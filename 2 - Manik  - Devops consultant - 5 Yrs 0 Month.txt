@@ -1,0 +1,740 @@
+ 
+	Manik 	9620532131
+manik2131@gmail.com													   
+							 
+	 
+EXPERIENCE SUMMARY	 
+			   
+							   
+							   
+		 
+Done Bachelors of engineering and technology in computer science with near 5 years of IT experience  .Currently working with mindtree from nearly last 4years and seeking more opportunities to utilize my skills and knowledge in the right direction.
+
+Before Mindtree, working for NOUS info systems as testing engineer for1 year.
+
+
+IN MINDTREE
+	 
+		   
+							   
+ 
+EXPERIENCE DETAILS	 
+				   
+							   
+			 
+Functional Domain Name	Description	   
+Testing		Was actively performing Functional and usability testing of the packages respective to software’s which were verified and validated at the cloud parallel platform and then further put on production.	   
+Software Configuration Management ( Devops)  	Actively examining most of the scopes of software configuration management and development life cycle. Working very actively in agile framework as devops engineer.	 
+		   
+							 
+		   
+														   
+	 
+			 
+SKILLS	 
+					   
+												   
+												   
+		 
+Technology :	 
+			 
+Device/Product Testing , Build and Release , DEVOPS	 
+			   
+												   
+	 
+Primary Skill(s) :	 
+				 
+FUNCTIONAL TESTING, DEVOPS , SOFTWARE CONFIGURATION MANAGEMNET , ADMINISTRATION 	 
+			   
+												   
+ 
+	
+ 
+Technical Skills:	 
+		   
+				   
+		 
+	 
+	 
+		 
+.VERSION CONTROL SYSTEM,  VISUALIZATION AND REPORTING MANAGEMENT SYSTEM , SETTING UP INFRASTRUCTURE FOR DIFFERENT TOOLS AND ENVIRONMENTS  	 
+		   
+					 
+	   
+				 
+		   
+												   
+	 
+Industry Domain:	 
+			 
+IMTS , IMS 	 
+				   
+												 
+			   
+														   
+												   
+
+
+					 
+PROJECT EXPERIENCE
+
+Project/Product 1
+
+Customer Name 
+
+Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Role
+
+Operating System/ Languages 
+
+
+
+Tools and Technologies
+
+
+
+
+
+
+Responsibilities/Contribution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Team Size
+
+
+
+
+Project/Product 1	   
+
+
+Customer Name 
+
+Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Role
+
+
+Operating System/ Languages 
+
+
+
+Tools and Technologies
+
+
+
+
+
+
+
+Responsibilities/Contribution
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Team Size	
+
+
+AKzoNobel
+
+AKzoNobel Decorative Coating
+
+From Devops Perspective, we have starting the project from scratch .
+Here we have setup the Jenkins server on the cloud aws platform and then setup CI-CD setup for various environments on Through Jenkins.
+
+Also,we also have to integrate Fisheye with Jira for having the visualization of all the commits and reports done on the perforce repository.
+We were also incharge in doing the static and dynamic analysis of code using coverity tool
+There were many instances when we had to use open source code scanning methodologies like asana ,protex etc. for rapid code solution .
+Basically , this project is based on content management system using Drupal as their CMS system .They are using PHP as their language .
+We have also used Puppet scripts to automate the deployment .
+
+
+Devops Consultant
+
+Linux, Unix, Windows , Android , PowerShell , shell script , Ruby ,Groovy , Core Java, c++
+
+
+Perforce , Jenkins, Fisheye , Docker , AWS , Phing , Subversion ,
+
+Fiddler , Sonar , SVN , Docker hub , Graddle ,Ant , Nagios ,Teamcity , TOMCAT, APACHE,JBOSS
+
+
+
+Setup CI-CD on the build server of Jenkins.
+
+Done complete end to end scenario of the code starting from Development to testing and then to putting it on any environment after verification.
+
+Performed various checking in and checkout on Perforce version management system.
+
+Also, Done open source code scanning with the help of Protex of Black Duck
+
+Done various reviewing activities on the Fisheye reporting tool from which we 
+Can figure it out what differences were made on different commits.
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+TOMTOM NAVIGATION
+
+TOMTOM INTERNATIONAL
+
+As per Devops perspective, we were working under Agile framework .
+From our product owner point of view, our main objective was to dockerize each and every component which Navigation uses to do the tasks.
+           We had total 17 components in which we had dockerized 12 of them so that they we will be able to test the minimal test cases pertaining to those components .
+        Also, besides these we have built the whole pipelines of Continuous integration and delivery so that task can be made automated in one go .
+      There were many build and release issues as well which we need to look on.
+
+
+
+
+Devops Consultant
+
+
+Linux, Unix, Windows , Android , PowerShell , shell script , Ruby ,Groovy , Core Java, c++
+
+
+
+Git , GitHub , Jenkins, Docker , Puppet , AWS , Maven , Subversion ,
+
+Fiddler , Sonar , SVN , Docker hub , Graddle ,Ant , Nagios ,Teamcity , TOMCAT, APACHE,JBOSS
+
+
+
+Worked on various Automating jobs  in the Tools like Jenkins , Team city .
+
+Worked on building the code from the code base like Git-hub ,Docker hub , Nexus .
+
+Worked on code building tools like maven which helps in building the code by resolving various dependencies.
+
+Worked on Dockerising components with help of Docker like IT-proxy , Service management
+
+Worked on Scripting part i.e. Bat script as well as batch script.
+
+Worked on Continuous Integration and Continuous Delivery Pipelines 
+
+Worked on  Overall Architecture of Download and Install of MAPS and Audios
+
+Worked on the understanding of Various components Like BA, Combine , It- Proxy , DAS , DIS etc. Worked on  various Scenarios for making things connect and make it validated from the server level.
+
+Worked on various server level issues and resolved it also.
+
+Worked on code representation tools also like sonar and how it syncs with other tools like Jenkins and team city for representation .
+
+Worked on Other scripting tools as well besides than the basics like Groovy scripts,Ruby ,pythonetc. .
+
+Worked on the sync of various plugins with tools like Jenkins and team city so that they will have the usage of those.
+
+Build a complete end to end pipeline for BA component on Team city automation tool which included its build, representation,dockerizing and then deploying it to production.
+
+Worked on NAV3 as well as NAV4 devices for making things work in their docker container and also and reflect the same output. 
+
+Worked on various servers like TOMCAT , JBOSS , APACHE etc. and solved many issues on the bases of their components dockerization .
+
+Worked on WINDOWS as Well as on LINUX platform which was very advantageous .Worked on Window tool of dockeri.e Boot2DOCKER and solved the dependency of having docker only on Linux.
+
+Also worked on Linux version of docker which included the allex Collin plugins ,docker installation and its work within mind tree network.
+
+6
+
+
+
+
+
+
+
+						   
+												   
+														   
+														   
+						 
+ 
+ 
+Project/Product 1	 
+							 
+Dec 14 - Till date	 
+			   
+ 			 
+Managed Consulting Operations	 
+	 			   
+					 						   
+		 
+Customer Name	 
+											   
+	 					 
+MINDTREE-INTERNAL - IMTS	 
+				   
+							 				   
+														   
+	 
+Description	 
+												   
+ 						 
+In managed Consulting operations, we are engaged in activities which deals with the agile methodology of software by creating, testing and verifying, and then deploying it to the production environment.
+
+We are a very active participant of the configuration management team where with the use tools like SVN, MAVEN, JENKINS etc. we are able to take up the source, make the changes as required and then deploy it to the production. Also, lot of things can be made as automated by writing various scripts in these tools.
+
+We are also very active participant of the DEVOPS team which is making its contribution by designing Infrastructure and making services automated.  Here, we are dealing with the overview of the Infrastructure of the servers and how we can monitor and observe the client servers by using PUPPET and DOCKER.	 
+					   
+							 					   
+														   
+	 
+Tools & Technologies	 
+												   
+ 							 
+Technologies  :-  Software Continuous Integration , Software Configuration Management , Agile methodology 
+
+Tools               :-JENKINS , MAVEN , SVN , PUPPET , DOCKER , GIT  , GITHUB  , DOCKERHUB ,	   
+	   
+	   
+	 
+				   
+	 												   
+														   
+	 
+Operating System	 
+												   
+ 					 
+Windows98, Windows 2000, Windows XP, Linux, Unix, Red Hat	 
+				   
+						 				   
+														   
+	 
+Role Played	 
+												   
+ 							 
+Software Configuration Consulting and Management	 
+				   
+								 				   
+														   
+	 
+Responsibilities / Contribution	 
+												   
+ 							 
+- Responsible for Creating the source repositories in SVN and other source control tools
+
+- Responsible for creating the build in MAVEN manually or automatically.
+
+- Using Jenkins as the automated and common platform tool so that all the tools will club together and work at a sync.
+
+-Trying to use Puppet for designing and controlling the client server based model architecture.
+
+-Trying to use Dockers for the application container and for better utilization of the cloud platform.
+
+-Trying implement continuous integration techniques on the software development process.	 
+		   
+	 												   
+														   
+		 
+Team Size                          5	 
+					   
+														 
+	   
+ 
+ 
+Project/Product 2	 
+							 
+Jan 14 - Jun 14	 
+			   
+ 			 
+KPN_MITOC	 
+	 			   
+					 						   
+		 
+Customer Name	 
+											   
+	 					 
+KPN CORPORATE MARKET B V	 
+				   
+							 				   
+														   
+	 
+Description	 
+												   
+ 						 
+KPN is the largest telecom company from Netherlands which provides all the necessary functions and the services to their local and standardized brands of customers like Heineken, Genesys, Cisco, etc.
+
+As working for KPN ,we have to provide security ,backup, testing and resolving the issue pertaining to their servers associated with different clients and do the modification in case if necessary.
+
+All the daily tests of the services running with respect to the servers be done by using platforms like desktop 90 under which a user will log in and use different set of client interface soft wares which will directly connect to the respective servers and do an appropriate action on the respective ones.	 
+					   
+							 					   
+														   
+	 
+Tools & Technologies	 
+												   
+ 							 
+SERVICE NOW , SERVICE OPERATIONS, Spectrum , Solar winds , HPDP , Desktop 90 , CITRIX , MYSQL , NAGIOS , RED HAT  ,	 
+				   
+	 												   
+														   
+	 
+Operating System	 
+												   
+ 					 
+Windows98, Windows 2000, Windows XP, Linux, Unix, Red Hat	 
+				   
+						 				   
+														   
+	 
+Role Played	 
+												   
+ 							 
+System Administrator	 
+				   
+								 				   
+														   
+	 
+Responsibilities / Contribution	 
+												   
+ 							 
+-Resolving various issues of different customers pertaining to their incidents which got occurred.
+
+-Coordinating with the team members in creating and issuing the tasks to different teams.
+
+-Completing the daily and weekly issued tasks proactively.
+
+-Managing User Accounts (Creation, Deletion and Permission) in RHEL
+
+-Configuration and troubleshoot on Server. 
+
+-Reporting of the bugs found during the running of the scripts.
+
+- Responsible for Uptime and downtime of the servers.	 
+		   
+	 												   
+														   
+		 
+Team Size                          65	 
+					   
+														 
+	   
+ 
+ 
+Project/Product 3	 
+							 
+Jun 13 - Dec 13	 
+			   
+ 			 
+KPN GDC WAVE 1	 
+	 			   
+					 						   
+		 
+Customer Name	 
+											   
+	 					 
+KPN Corporate Market B V	 
+				   
+							 				   
+														   
+	 
+Description	 
+												   
+ 						 
+KPN is the largest telecom company from Netherlands which provides all the necessary functions and the services to their local and standardized brands of customers like Heineken, Genesys, Cisco, etc.
+
+As working for KPN ,we have to provide security ,backup, testing and resolving the issue pertaining to their servers associated with different clients and do the modification in case if necessary.
+
+It also as asks us to maintain daily scheduled tasks and keep a record on that.
+While tracking all the tasks one has to map all the requirement services necessary to perform on the server  for which on should maintain the RTM(requirement traceability matrix).
+
+All the daily tests of the services running with respect to the servers be done by using platforms like desktop 90 under which a user will log in and use different set of client interface soft wares which will directly connect to the respective servers and do an appropriate action on the respective ones.	 
+					   
+							 					   
+														   
+	 
+Tools & Technologies	 
+												   
+ 							 
+SERVICE NOW , SERVICE OPERATIONS, Spectrum , Solar winds , HPDP , Desktop 90 , CITRIX , MYSQL , NAGIOS , RED HAT  ,	 
+				   
+	 												   
+														   
+	 
+Operating System	 
+												   
+ 					 
+Windows98, Windows 2000, Windows XP, Linux, Unix, Red Hat	 
+				   
+						 				   
+														   
+	 
+Role Played	 
+												   
+ 							 
+System Administrator	 
+				   
+								 				   
+														   
+	 
+Responsibilities / Contribution	 
+												   
+ 							 
+-Resolving various issues of different customers pertaining to their incidents which got occurred.
+
+-Coordinating with the team members in creating and issuing the tasks to different teams
+
+-Completing the daily and weekly issued tasks proactively
+
+-Creating File Systems, Partitions and managing disk quotas.
+
+-Managing User Accounts (Creation, Deletion and Permission) in RHEL
+
+-Installation of Operating System using different methods HTTP, FTP, NFS, and Kick-start etc.
+
+-Configuration and troubleshoot on Server. 
+
+-Reporting of the bugs found during the running of the scripts.
+
+- Responsible for Uptime and downtime of the servers.	 
+		   
+	 												   
+														   
+		 
+Team Size                          69	 
+					   
+														 
+	   
+ 
+ 
+Project/Product 4	 
+							 
+Mar 13 - Nov 14
+
+	 
+			   
+ 			 
+KPN_CLOUD_PARALLELS_ONBOARDING	 
+	 			   
+					 						   
+		 
+Customer Name	 
+											   
+	 					 
+KPN Corporate Market B V	 
+				   
+							 				   
+														   
+	 
+Description	 
+												   
+ 						 
+KPN is the largest telecom company from Netherlands which provides all the necessary functions and the services to their local and standardized brands. Here KPN along with Mindtree were providing IT services to its valued partners and customers.
+
+ Packages were on boarded to the cloud environment for testing and validation. If the testing gets unsuccessful then we have to get back to the ISV for Clarification through Query Log Otherwise if it will be successful then we will onboard it to the production and verify it.
+
+APS packages along with service documents were provided by the ISV. After verification and validation of the packages, we had to onboard it to the cloud parallel platform
+	 
+					   
+							 					   
+														   
+	 
+Tools & Technologies	 
+												   
+ 							 
+Coverity ,  Cloud Platform, Cloud Parallel tool, Eclipse, Sandbox Testing , Manual testing reports , APS packages , POA (Parallel Onboarding Automation), PBA(Parallel Business automation)	 
+				   
+	 												   
+														   
+	 
+Operating System	 
+												   
+ 					 
+Windows98, Windows 2000, Windows XP	 
+				   
+						 				   
+														   
+	 
+Role Played	 
+												   
+ 							 
+Parallel testing , Manual testing reports , User accounts creation	 
+				   
+								 				   
+														   
+	 
+Responsibilities / Contribution	 
+												   
+ 							 
+- I was responsible to write test cases on the basis of their functionality and usability for the concerned APS packages which were provided by the ISV.
+
+-Performing sandbox testing on the packages and giving the results to the onshore team.
+
+- Responsible for onboarding the packages to the cloud platform.
+
+- Helping my team in coordinating with the ISV's for the validation and verification of packages 
+
+- Was responsible for creating and managing user account who will be utilizing the packages.
+
+- Was taking care for the sales and utilization part of the service per hour in the parallel sales automation tool.
+
+- Was responsible in observing and checking the different Services of different packages which need to be on boarded to the cloud.
+
+-Determining the functionality and usability and restricting it to a specific limit.	 
+		   
+	 												   
+														   
+		 
+Team Size                          4
+
+
+
+
+IN NOUS
+
+Project Experience 
+
+Project/Product 1Ttracker
+
+Customer Name                                   Internal
+
+DescriptionTtracker is web-based time sheet software for time tracking and management                         
+which helps organization to improve business process, analyze team                                                                      
+performance and reduce costs. It also enables the organization manages 
+performance and generates precise reports regarding employee shifts and 
+performance with the help of its enhanced tools. With Ttracker it is easy to Use 
+ weekly timesheet for entering comments, plan, time spent on each task, track 
+time off and sick leaves, track overtime & under time, get staff load in one click, 
+generate detailed reports, including overtime report.     
+
+Roles/ResposibilitiesInvolved in identifying scenarios
+Creating, Updating & Executing Test Cases
+Execution of Test Cases for Functional, System & Integration Testing
+Maintain key metrics to capture testing data
+ Involved in preparing Defect reports and defect tracking
+ Prepared Test execution Reports
+   Automation testing on Regression Test Cycles using Web Driver.
+ Re-testing fault resolutions as directed by the Test Lead
+
+Operating systemWindows  , LINUX , Unix
+
+Tools and MethodologiesManual Testing , Bugzilla , IE Tester , Link Checker ,Case generator
+	 
+					   
+														 
+	 
+			   
+														   
+					 
+					 
+					   
+														   
+				 
+			   
+ 
+EDUCATION	 
+		   
+			   
+	 
+Year	Degree	Major Subject	Institution	   
+2012	Rational - Test Manager	Others	OTHER COLLEGE - INDIA 	   
+2011	B. Tech	Computer Science	CHANDIGARH ENGINEERING COLLEGE - INDIA 	   
+2009	Oracle	Computer Application	OTHER COLLEGE - INDIA 	   
+2007	Class XII (PUC)	Others	ST PETERS SENIOR SECONDARY SCHOOL 	   
+2005	Class X (SSLC)	Others	ST PETERS HIGHER SECONDARY SCHOOL 	 
+	   
+			 
+					   
+														   
+														   
+														 
